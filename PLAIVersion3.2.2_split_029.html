@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Unknown</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<link rel="stylesheet" type="text/css" href="page_styles.css"/>
+</head>
+  <body class="c">
+<h2 class="c27" id="h.7bpl8hed3hv6"><span class="c4">Extending the AST</span></h2><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">Because we have fixed our conditionals to have three parts, we just need to represent that in the AST. This is straightforward:</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c41">(define-type Exp</span></p><p class="c5"><span class="c41">  [num (n : Number)]</span></p><p class="c5"><span class="c41">  [plus (left : Exp) (right : Exp)]</span></p><p class="c5"><span class="c41">  [cnd (test : Exp) (then : Exp) (else : Exp)])</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">The real work will happen in the evaluator.</span></p></body></html>

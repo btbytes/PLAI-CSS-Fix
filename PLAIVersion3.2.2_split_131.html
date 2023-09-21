@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Unknown</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<link rel="stylesheet" type="text/css" href="page_styles.css"/>
+</head>
+  <body class="c">
+<h2 class="c27" id="h.71ezdj4s2c3z"><span class="c4">Union Types and Space</span></h2><p class="c3"><span class="c4"></span></p><p class="c5"><span class="calibre3">Therefore, union types combined with if-splitting gives us an alternate approach of obtaining something akin to algebraic datatypes in our programming language. However, we don’t obtain the space benefits of the algebraic datatype definition. We created two distinct types; in principle, that’s not a problem. However, to write programs, we needed to have predicates (</span><span class="c28">mt?</span><span class="calibre3"> and </span><span class="c28">node?</span><span class="calibre3">) that took </span><span class="c7">any</span><span class="calibre3"> value. Therefore, those predicates need type-tags on the values to be able to tell what kind of value they are looking at. Observe that these are </span><span class="c7">type</span><span class="calibre3"> tags, not </span><span class="c7">variant</span><span class="c4"> tags, so the amount of space they need is proportional to the number of types in the whole program, not just the number of variants in that particular algebraic datatype definition.</span></p></body></html>

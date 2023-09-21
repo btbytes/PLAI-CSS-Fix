@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Unknown</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<link rel="stylesheet" type="text/css" href="page_styles.css"/>
+</head>
+  <body class="c">
+<h2 class="c27" id="h.cyirf2k5pbmi"><span class="c4">Constructors</span></h2><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">A constructor is simply a function that is invoked at object construction time. We currently lack such a feature, but by turning an object from a literal into a function that takes constructor parameters, we achieve this effect:</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c41">(define (o-constr x)</span></p><p class="c5"><span class="c41">  (lambda (m)</span></p><p class="c5"><span class="c41">    (case m</span></p><p class="c5"><span class="c41">      [(addX) (lambda (y) (+ x y))])))</span></p><p class="c5"><span class="c41"> </span></p><p class="c5"><span class="c41">(test (msg (o-constr 5) 'addX 3) 8)</span></p><p class="c5"><span class="c41">(test (msg (o-constr 2) 'addX 3) 5)</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">In the first example, we pass 5 as the constructor’s argument, so adding 3 yields 8. The second is similar, and shows that the two invocations of the constructors don’t interfere with one another (just as we would expect from static scope).</span></p></body></html>

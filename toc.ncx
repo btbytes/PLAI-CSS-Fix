@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="13f3d0c3-9328-41f8-8ee4-7bd3759e881d"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.26.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>PLAI Version 3.2.2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8fBTWHuuuXPPgCOgLNWtr2" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_001.html"/>
+    </navPoint>
+    <navPoint id="ulZF8XiCNsTDEyQJDz2dsR2" playOrder="2">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_002.html"/>
+    </navPoint>
+    <navPoint id="u4OHKWCq3QKUAD8qA7X4pm8" playOrder="3">
+      <navLabel>
+        <text>Why Study Programming Languages?</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_002.html#h.q040t8cojbor"/>
+    </navPoint>
+    <navPoint id="uNmXDidqRTq3JMu3LhFqpSD" playOrder="4">
+      <navLabel>
+        <text>The Target Audience</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_003.html"/>
+    </navPoint>
+    <navPoint id="uR5aqSRvkjBYfjLWsO4OMZ3" playOrder="5">
+      <navLabel>
+        <text>Why a Third Edition</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_004.html"/>
+    </navPoint>
+    <navPoint id="uYLm38GZsBHkboXGQRrUyw8" playOrder="6">
+      <navLabel>
+        <text>Structuring Our Study</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_005.html"/>
+    </navPoint>
+    <navPoint id="usB3sdf3rxL665pvhHhur72" playOrder="7">
+      <navLabel>
+        <text>Equipment for Learning</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_006.html"/>
+    </navPoint>
+    <navPoint id="uTt4VFQnYTqbUtNhUJfYR69" playOrder="8">
+      <navLabel>
+        <text>The Language(s) of the Book</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_007.html"/>
+    </navPoint>
+    <navPoint id="ujVrwXdf2eSqqSTK3tsQ5L2" playOrder="9">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_008.html"/>
+    </navPoint>
+    <navPoint id="umgrNjSZFZWok7eu57kkug2" playOrder="10">
+      <navLabel>
+        <text>Readers</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_008.html#h.gw9kog1g4e46"/>
+    </navPoint>
+    <navPoint id="ujvVeCZPkaHy9FBwttCTkkE" playOrder="11">
+      <navLabel>
+        <text>Everyone Else</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_009.html"/>
+    </navPoint>
+    <navPoint id="ubqXgzma4q2A78yCpgxeLA7" playOrder="12">
+      <navLabel>
+        <text>••••• Learning SMoL •••••</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_010.html"/>
+    </navPoint>
+    <navPoint id="uScrRqwI8t9w7TUGXTestjA" playOrder="13">
+      <navLabel>
+        <text>Teach Yourself SMoL</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_011.html"/>
+    </navPoint>
+    <navPoint id="u3WPJOkk47OvoNWDoZeyUEH" playOrder="14">
+      <navLabel>
+        <text>••••• Evaluation •••••</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_012.html"/>
+    </navPoint>
+    <navPoint id="uCKUfK3DtedLcLgTG3LqjdG" playOrder="15">
+      <navLabel>
+        <text>Evaluation on Paper</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_013.html"/>
+    </navPoint>
+    <navPoint id="uuiyfemL9QBDrdCBtVnd7LG" playOrder="16">
+      <navLabel>
+        <text>Evaluators</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_013.html#h.s35mokq31e72"/>
+    </navPoint>
+    <navPoint id="uwiPsbb3cTlwIkJTYvT7sBC" playOrder="17">
+      <navLabel>
+        <text>Terminology</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_014.html"/>
+    </navPoint>
+    <navPoint id="uRjAM2xTEotbqg7kOWFYwSC" playOrder="18">
+      <navLabel>
+        <text>Simulating an Interpreter by Hand</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_015.html"/>
+    </navPoint>
+    <navPoint id="uPTaWSycjEAbwLgml7HpyJF" playOrder="19">
+      <navLabel>
+        <text>Substitution</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_016.html"/>
+    </navPoint>
+    <navPoint id="uPPYNVhLIkkPJzLa2wiYF3E" playOrder="20">
+      <navLabel>
+        <text>Representing Arithmetic</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_017.html"/>
+    </navPoint>
+    <navPoint id="ujh7t2cdbAKJSibaaJaulT7" playOrder="21">
+      <navLabel>
+        <text>Representing Programs</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_018.html"/>
+    </navPoint>
+    <navPoint id="u8i4WaOeNx3FNHqIIbgtNH5" playOrder="22">
+      <navLabel>
+        <text>Abstract Syntax</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_019.html"/>
+    </navPoint>
+    <navPoint id="u5uJwDuueIXq9Tgw9JPt9iC" playOrder="23">
+      <navLabel>
+        <text>Representing Abstract Syntax</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_020.html"/>
+    </navPoint>
+    <navPoint id="u7ReBx8fMEQ9kehhXutng5E" playOrder="24">
+      <navLabel>
+        <text>Evaluating Arithmetic</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_021.html"/>
+    </navPoint>
+    <navPoint id="uSee9ehBwEY54AxoZOnx5tF" playOrder="25">
+      <navLabel>
+        <text>Defining the Evaluator</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_021.html#h.pwumq0yryyjt"/>
+    </navPoint>
+    <navPoint id="u8fKDsdZ4ukQmkJZoRiOvrD" playOrder="26">
+      <navLabel>
+        <text>Testing the Evaluator</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_022.html"/>
+    </navPoint>
+    <navPoint id="u6lPpMyu8qutuEd5ToHQLxB" playOrder="27">
+      <navLabel>
+        <text>Some Subtler Tests</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_023.html"/>
+    </navPoint>
+    <navPoint id="ukJ24S3C9pwzmpR2ROlKEq6" playOrder="28">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_024.html"/>
+    </navPoint>
+    <navPoint id="uEG8vLEsbP6uQs2UXipV3rD" playOrder="29">
+      <navLabel>
+        <text>Parsing: From Source to ASTs</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_025.html"/>
+    </navPoint>
+    <navPoint id="uqVMQHjekP7ZcIF5TKp4xT8" playOrder="30">
+      <navLabel>
+        <text>The Problem</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_025.html#h.jabunlft2rb1"/>
+    </navPoint>
+    <navPoint id="uCNyZgytkKWY2dl63pyrohD" playOrder="31">
+      <navLabel>
+        <text>S-Expressions</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_026.html"/>
+    </navPoint>
+    <navPoint id="uNrX9EvQ2xRgRgXK5z7fNvD" playOrder="32">
+      <navLabel>
+        <text>Primus Inter Parsers</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_027.html"/>
+    </navPoint>
+    <navPoint id="uCjnLImgIwFERByFlMBWqwE" playOrder="33">
+      <navLabel>
+        <text>Evaluating Conditionals</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_028.html"/>
+    </navPoint>
+    <navPoint id="uOoJ3Ak4q3lDBObVDOdDyVH" playOrder="34">
+      <navLabel>
+        <text>Extending the AST</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_029.html"/>
+    </navPoint>
+    <navPoint id="uvxc9OXdFsfWXRn8BOwQOc6" playOrder="35">
+      <navLabel>
+        <text>Extending the Calculator</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_030.html"/>
+    </navPoint>
+    <navPoint id="uRtlHC2DA65FwMdRuRx3kTD" playOrder="36">
+      <navLabel>
+        <text>The Design Space of Conditionals</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_031.html"/>
+    </navPoint>
+    <navPoint id="uWw5DylWHQjRsnkozeVmjv5" playOrder="37">
+      <navLabel>
+        <text>Using Truthy-Falsy Values</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_032.html"/>
+    </navPoint>
+    <navPoint id="uBHeCaQkpHlZreWozMU4W6B" playOrder="38">
+      <navLabel>
+        <text>Implementing Conditionals</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_033.html"/>
+    </navPoint>
+    <navPoint id="uSeRXwkWbwftixHi5Lu4ou4" playOrder="39">
+      <navLabel>
+        <text>Adding Booleans</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_034.html"/>
+    </navPoint>
+    <navPoint id="uNXIQHeMoZTRJOoTSazaAn4" playOrder="40">
+      <navLabel>
+        <text>The Value Datatype</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_035.html"/>
+    </navPoint>
+    <navPoint id="uaH2Mk3K2tfSoYDHXOTU89A" playOrder="41">
+      <navLabel>
+        <text>Updating the Evaluator</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_036.html"/>
+    </navPoint>
+    <navPoint id="uoVLgiPEpccFbV3KquwODlC" playOrder="42">
+      <navLabel>
+        <text>Evaluating Local Binding</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_037.html"/>
+    </navPoint>
+    <navPoint id="uGbTWJ4JPrNwgV5elOoXijB" playOrder="43">
+      <navLabel>
+        <text>A Syntax for Local Binding</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_038.html"/>
+    </navPoint>
+    <navPoint id="uJO9iyqUkkufOXfwHa6pJ53" playOrder="44">
+      <navLabel>
+        <text>The Meaning of Local Binding</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_039.html"/>
+    </navPoint>
+    <navPoint id="uiDcJvKnnl68QcEdhkcg9lC" playOrder="45">
+      <navLabel>
+        <text>Static Scoping</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_040.html"/>
+    </navPoint>
+    <navPoint id="uRve9W8LYGMe4bUQIzBecyD" playOrder="46">
+      <navLabel>
+        <text>An Evaluator for Local Binding</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_041.html"/>
+    </navPoint>
+    <navPoint id="ugG6icLPfi5pQkrljZwfZAC" playOrder="47">
+      <navLabel>
+        <text>Caching Substitution</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_042.html"/>
+    </navPoint>
+    <navPoint id="uF6kuNQjWf6PKYjsV87Vp5A" playOrder="48">
+      <navLabel>
+        <text>Evaluating Functions</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_043.html"/>
+    </navPoint>
+    <navPoint id="u8QmFaORd8qFYLGXHWYzNCB" playOrder="49">
+      <navLabel>
+        <text>Functions in the Language</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_044.html"/>
+    </navPoint>
+    <navPoint id="uIjicXIGVXIdZXBBjRWv6N7" playOrder="50">
+      <navLabel>
+        <text>Extending the Representation</text>
+      </navLabel>
+      <content src="PLAIVersion3.2.2_split_045.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

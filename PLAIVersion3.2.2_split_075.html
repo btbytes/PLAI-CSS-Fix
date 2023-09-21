@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Unknown</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<link rel="stylesheet" type="text/css" href="page_styles.css"/>
+</head>
+  <body class="c">
+<h2 class="c27" id="h.lylyl0eajnve"><span class="c4">Private Members</span></h2><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">Another common object language feature is private members: ones that are visible only inside the object, not outside it.  </span></p><p class="c3"><span class="c4"></span></p><p class="c31"><span class="c40">Aside:</span><span class="c4"> Except that, in Java, instances of other classes of the same type are privy to “private” members. Otherwise, you would simply never be able to implement an Abstract Data Type. Note that classes are not Abstract Data Types!</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">These may seem like an additional feature we need to implement, but we already have the necessary mechanism in the form of locally-scoped, lexically-bound variables:</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c41">(define (mk-o-state/priv init)</span></p><p class="c5"><span class="c41">  (let ([count init])</span></p><p class="c5"><span class="c41">    (lambda (m)</span></p><p class="c5"><span class="c41">      (case m</span></p><p class="c5"><span class="c41">        [(inc) (lambda () (set! count (+ count 1)))]</span></p><p class="c5"><span class="c41">        [(dec) (lambda () (set! count (- count 1)))]</span></p><p class="c5"><span class="c41">        [(get) (lambda () count)]))))</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="calibre3">The code above uses lexical scoping to ensure that </span><span class="c28">count</span><span class="calibre3"> remains hidden to the world. Trying to access </span><span class="c28">count</span><span class="c4"> directly from the outside will fail.</span></p></body></html>

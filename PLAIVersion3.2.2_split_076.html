@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Unknown</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<link rel="stylesheet" type="text/css" href="page_styles.css"/>
+</head>
+  <body class="c">
+<h2 class="c27" id="h.a0ymvc6n5zri"><span class="c4">A Refined “Class” Pattern</span></h2><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">With this change, we can now refine our pattern for classes:</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c41">(define (class-w/-private constructor-params)</span></p><p class="c5"><span class="c41">  (let ([private-vars …] …)</span></p><p class="c5"><span class="c41">    … the object pattern …))</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">which we can also write as:</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c41">(define class-w/-private</span></p><p class="c5"><span class="c41">  (lambda (constructor-params)</span></p><p class="c5"><span class="c41">    (let ([private-vars …] …)</span></p><p class="c5"><span class="c41">      … the object pattern …)))</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="c4">We’ll see in a moment why we might want to do this.</span></p></body></html>

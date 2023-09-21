@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Unknown</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<link rel="stylesheet" type="text/css" href="page_styles.css"/>
+</head>
+  <body class="c">
+<h1 class="c22" id="h.kbecy5s6bhgh"><span class="c4">How SMoL Becomes Large</span></h1><p class="c3"><span class="c4"></span></p><p class="c5"><span class="calibre3">We have already been introduced to the idea of SImPl, the Standard Implementation Plan. The core idea is that the program’s syntax is represented as abstract syntax using a (mutually) recursive algebraic datatype, and we then write a similar (mutually) recursive program to process it. What that program produces depends on the process we are trying to implement: an interpreter produces </span><span class="c7">values</span><span class="calibre3">, a compiler produces </span><span class="c7">programs</span><span class="calibre3"> (in another language), a type-checker produces </span><span class="c7">judgments about type-correctness</span><span class="c4"> (and more, as we’ll soon see), and so on. But they all have the same basic structure.</span></p><p class="c3"><span class="c4"></span></p><p class="c5"><span class="calibre3">In practice, this means that a SImPl needs to have a case to handle each of the constructs in the language. This is not a problem in principle, but it can become onerous in practice. Suppose we have two constructs that have a lot of repetition. Not only does it mean we have to duplicate programming, it also means we have to duplicate </span><span class="c7">maintenance</span><span class="c4">: if we fix a bug in one, we have to remember to fix it in the other in the corresponding way.</span></p></body></html>
