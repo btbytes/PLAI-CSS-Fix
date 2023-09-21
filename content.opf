@@ -193,6 +193,11 @@
     <item id="html3" href="PLAIVersion3.2.2_split_175.html" media-type="application/xhtml+xml"/>
     <item id="html2" href="PLAIVersion3.2.2_split_176.html" media-type="application/xhtml+xml"/>
     <item id="html1" href="PLAIVersion3.2.2_split_177.html" media-type="application/xhtml+xml"/>
+    <item id="font8"  href="fonts/FiraCode-Light.ttf" media-type="application/x-font-truetype"/>
+    <item id="font9"  href="fonts/FiraCode-Regular.ttf" media-type="application/x-font-truetype"/>
+    <item id="font10" href="fonts/FiraCode-Medium.ttf" media-type="application/x-font-truetype"/>
+    <item id="font11" href="fonts/FiraCode-SemiBold.ttf" media-type="application/x-font-truetype"/>
+    <item id="font12" href="fonts/FiraCode-Bold.ttf" media-type="application/x-font-truetype"/>
     <item id="font6" href="fonts/Arial-Bold-Italic.ttf" media-type="application/x-font-truetype"/>
     <item id="font5" href="fonts/Arial-Bold.ttf" media-type="application/x-font-truetype"/>
     <item id="font7" href="fonts/Arial-Italic.ttf" media-type="application/x-font-truetype"/>
@@ -201,6 +206,7 @@
     <item id="font2" href="fonts/Georgia-Bold.ttf" media-type="application/x-font-truetype"/>
     <item id="font1" href="fonts/Georgia-Italic.ttf" media-type="application/x-font-truetype"/>
     <item id="font" href="fonts/Georgia.ttf" media-type="application/x-font-truetype"/>
+
     <item id="added" href="image14.jpg" media-type="image/jpeg"/>
     <item id="added4" href="image1.png" media-type="image/png"/>
     <item id="added7" href="image2.png" media-type="image/png"/>
