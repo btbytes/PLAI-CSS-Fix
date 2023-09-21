@@ -309,7 +309,7 @@
   margin: 0.83em 0;
 }
 .c28 {
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
@@ -455,7 +455,7 @@
 }
 .c41 {
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -693,14 +693,14 @@
 }
 .c64 {
   background-color: #ff0;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c65 {
   background-color: #ff0;
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -783,7 +783,7 @@
 }
 .c73 {
   color: #f00;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -793,13 +793,13 @@
 }
 .c74 {
   color: #f00;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c75 {
   color: #00f;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -809,7 +809,7 @@
 }
 .c76 {
   color: #00f;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
@@ -974,14 +974,14 @@
 }
 .c90 {
   background-color: #0f0;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c91 {
   background-color: #0f0;
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -992,7 +992,7 @@
 .c92 {
   background-color: #f00;
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -1035,13 +1035,13 @@
 }
 .c96 {
   background-color: #f00;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c97 {
   background-color: #fff;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.2;
@@ -1059,21 +1059,21 @@
 }
 .c99 {
   background-color: #ff0;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.2;
 }
 .c100 {
   background-color: #f90;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c101 {
   background-color: #3d85c6;
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -1083,21 +1083,21 @@
 }
 .c102 {
   background-color: #3d85c6;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.2;
 }
 .c103 {
   background-color: #3d85c6;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c104 {
   background-color: #fff;
   color: #44464d;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.2;
@@ -1156,7 +1156,7 @@
 }
 .c109 {
   background-color: #6fa8dc;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.2;
@@ -1164,7 +1164,7 @@
 .c110 {
   background-color: #ffd966;
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -1174,7 +1174,7 @@
 }
 .c111 {
   background-color: #c27ba0;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.2;
@@ -1193,13 +1193,13 @@
 }
 .c115 {
   background-color: #d5a6bd;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c116 {
   background-color: #f1c232;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
@@ -1424,7 +1424,7 @@
 }
 .c138 {
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 0.83333em;
   font-style: normal;
   font-weight: 400;
@@ -1432,12 +1432,12 @@
   vertical-align: baseline;
 }
 .c139 {
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 0.83333em;
   font-weight: 400;
 }
 .c140 {
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 0.83333em;
   font-weight: 400;
   vertical-align: sub;
@@ -1445,7 +1445,7 @@
 .c141 {
   background-color: #b6d7a8;
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -1456,7 +1456,7 @@
 .c142 {
   background-color: #d5a6bd;
   color: #000;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-size: 1em;
   font-style: normal;
   font-weight: 400;
@@ -1466,13 +1466,13 @@
 }
 .c143 {
   background-color: #fff;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
 .c144 {
   background-color: #b6d7a8;
-  font-family: "Consolas";
+  font-family: "Fira Code", monospace;
   font-weight: 400;
   line-height: 1.2;
 }
